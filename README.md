@@ -1,3 +1,7 @@
+forked from https://github.com/grafana/grafana-docker
+
+i would like to create an image for the RaspberryPi / Hypriot to run grafana in... since grafana binary is not released for arm the image will need to build grafana from source
+
 # Grafana docker image
 
 This container builds a container with the
